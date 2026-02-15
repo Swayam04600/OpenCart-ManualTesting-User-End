@@ -178,20 +178,6 @@ The application requires bug fixes and regression testing before production depl
 
 ---
 
-## 📁 Repository Structure
-
-```
-1_TestPlan
-2_TestScenarios
-3_TestCases
-4_TestExecution
-5_DefectReports
-6_RTM
-7_Jira_Workflow
-```
-
----
-
 ## 👨‍💻 About Me
 
 This project is part of my preparation for an **Entry-Level Software Testing / QA Engineer** role and demonstrates practical experience with:
